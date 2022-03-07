@@ -10,4 +10,8 @@
 
 
 # 不一定与Unity有关的
-[games(开源游戏)](https://github.com/leereilly/games)]
+[games(开源游戏)](https://github.com/leereilly/games)
+
+# 拥有回合制战斗模块
+[基于$\color{red} {GF框架} $的一个回合制游戏](https://github.com/cnImpulse/AGame)  
+[整合 $\color{red} {Xlua热更模块} $，实现前后端Protobuf通信，包含Unity客户端和C#服务器完整代码。基于$\color{red} {GF框架} $的RPG游戏](https://github.com/lsw5530/RPG_GameFramework)
