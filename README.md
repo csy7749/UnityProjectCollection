@@ -30,3 +30,7 @@
 
 # Unity大集合
 [Unity-Script-Collection(有用且免费的unity脚本/库/插件和扩展的维护集合)](https://github.com/michidk/Unity-Script-Collection)
+
+# UnityShader
+[记录学习Unity Shader过程中实现过的一些Demo。](https://github.com/csdjk/LearnUnityShader/)  
+[《技术性文档收集》](https://shimo.im/docs/KvJyyYjpWDWtVvtd/)
