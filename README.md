@@ -27,3 +27,11 @@
 [整合 $\color{red} {Xlua热更模块} $，实现前后端Protobuf通信，包含Unity客户端和C#服务器完整代码。基于$\color{red} {GF框架} $的RPG游戏](https://github.com/lsw5530/RPG_GameFramework)  
 # Unity3D引擎的资源管理
 [YooAsset是一个基于Unity3D引擎的资源管理插件。](https://github.com/tuyoogame/YooAsset)
+
+# Unity 热更
+https://github.com/Bian-Sh/Assemblies-Hotfix-Toolkit-Unity AA+huatuo热更新
+
+
+#Unity集合  
+https://unitycoder.com/blog/  
+https://github.com/UnityCommunity/UnityLibrary
