@@ -31,8 +31,11 @@
 # Unity 热更
 https://github.com/Bian-Sh/Assemblies-Hotfix-Toolkit-Unity AA+huatuo热更新
 
-
+# UnityShader
+[记录学习Unity Shader过程中实现过的一些Demo。](https://github.com/csdjk/LearnUnityShader/)  
+[《技术性文档收集》](https://shimo.im/docs/KvJyyYjpWDWtVvtd/)
 
 #Unity集合  
 https://unitycoder.com/blog/  
 https://github.com/UnityCommunity/UnityLibrary
+[Unity-Script-Collection(有用且免费的unity脚本/库/插件和扩展的维护集合)](https://github.com/michidk/Unity-Script-Collection)
